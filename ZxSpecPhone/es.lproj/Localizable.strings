@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  ZxSpecPhone
+
+  Created by Raúl Flores on 29/09/11.
+  Copyright 2011 __MyCompanyName__. All rights reserved.
+*/
+"texto1"						= "ZxSpecPhone esta dedicado a todos los que tuvieron un Spectrum en su dia. 
+
+No ofrece mas funcionalidad que el telefono normal, pero le da un aire retro a tu dispositivo.
+
+Si te ha gustado la app, tienes alguna sugerencia o quieres confiarnos el desarrollo de la aplicacion de tu empresa, puedes escribir un email a correo.flores@gmail.com o enviarlo directamente desde aqui mismo pulsando el boton EMAIL.
+
+Disfruta de la aplicacion!";
+"subject"						= "Contacto desde ZXSpecPhone";
+"noemail"						= "El dispositivo no está configurado para enviar emails";
+"cancelled"						= "Mensaje cancelado";
+"saved"                         = "Mensaje guardado";
+"send"                          = "Mensaje enviado";
+"fail"                          = "Fallo en el envío";
+"defaulFail"                    = "El mensaje no ha sido enviado";
+
